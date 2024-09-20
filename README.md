@@ -1,4 +1,4 @@
-**Hey!** I'm Radek and I am currently working as Front-end Software Engineer at [Allegro.pl](https://allegro.pl) in Poznań, Poland.
+**Hey!** I'm Radek and I am currently working as Senior Front-end Software Engineer at [Allegro.pl](https://allegro.pl) in Poznań, Poland.
 
 <!--
 **Radwojt/Radwojt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
